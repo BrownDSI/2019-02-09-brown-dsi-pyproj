@@ -307,7 +307,7 @@ Contact Sarah for questions about the content or Meg for questions about logisti
       <li>Documentation</li>
       <li>Publishing</li>
       <li>Testing</li>
-      <li><a href="https://brownsarahm.github.io/python-data-project/index.html">more</a></li>
+<!--       <li><a href="https://brownsarahm.github.io/python-data-project/index.html">more</a></li> -->
     </ul>
   </div>
 
